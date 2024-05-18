@@ -12,3 +12,7 @@ Beautiful seductive pictures of automata
 ## Emptiness check of a transition-based Emerson-Lei Automaton
 ![Emptiness check of a transition-based Emerson-Lei Automaton](figs/emptiness-check-fun-and-profit.png)
 *	Christel Baier, František Blahoudek, Alexandre Duret-Lutz, Joachim Klein, David Müller, Jan Strejček: Generic Emptiness Check for Fun and Profit. ATVA'19: 445-461. Springer.
+
+## Paritization of an omega-automaton
+![Paritization of an omega-automaton](figs/paritization.png)
+* Florian Renkin, Alexandre Duret-Lutz, Adrien Pommellet: Practical "Paritizing" of Emerson-Lei Automata. ATVA'20: 127-143. Springer.
