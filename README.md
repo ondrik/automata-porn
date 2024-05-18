@@ -8,3 +8,7 @@ Beautiful seductive pictures of automata
 ## Automaton for the Presburger formula $x-y \leq 1$ 
 ![An NFA for the formula x-y <= 1](figs/presburger-trans-func.png)
 * Michal Hečko. Deciding Logic with Automata. Master's thesis. FIT BUT, Brno, Czech Republic. 2024.
+
+## Emptiness check of a transition-based Emerson-Lei Automaton
+![Emptiness check of a transition-based Emerson-Lei Automaton](figs/emptiness-check-fun-and-profit.png)
+*	Christel Baier, František Blahoudek, Alexandre Duret-Lutz, Joachim Klein, David Müller, Jan Strejček: Generic Emptiness Check for Fun and Profit. ATVA'19: 445-461. Springer.
